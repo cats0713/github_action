@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkfrontend"]=self["webpackChunkfrontend"]||[]).push([[881],{9004:function(n,e,t){t.r(e),t.d(e,{default:function(){return o}});var l=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("v-app",{staticClass:"loginApp"})},u=[],a={name:"loginApp",data:()=>({})},p=a,r=t(1001),s=t(3453),c=t.n(s),f=t(7524),i=(0,r.Z)(p,l,u,!1,null,null,null),o=i.exports;c()(i,{VApp:f.Z})}}]);
+//# sourceMappingURL=views-LoginView.75b55151.js.map

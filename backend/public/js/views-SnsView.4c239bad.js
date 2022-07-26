@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkfrontend"]=self["webpackChunkfrontend"]||[]).push([[833],{1101:function(n,e,t){t.r(e),t.d(e,{default:function(){return f}});var s=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",{staticClass:"snsApp"},[n._v(" 게시판 만들기 ")])},r=[],u={name:"SnsView",data(){return{s:1}}},l=u,a=t(1001),c=(0,a.Z)(l,s,r,!1,null,null,null),f=c.exports}}]);
+//# sourceMappingURL=views-SnsView.4c239bad.js.map

@@ -1,0 +1,20 @@
+{
+  "apps": [
+    {
+      "name": "EXAMPLE_SERVICE",
+      "script": "backend.js",
+      "watch": true,
+      "ignore_watch": [
+        "node_modules",
+        "package-lock.json",
+        ".gitignore",
+        "package.json",
+        "README.md",
+        "uploads"
+      ],
+      "env": {
+        "NODE_ENV": "testServer"
+      }
+    }
+  ]
+}

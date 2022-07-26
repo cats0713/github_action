@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkfrontend"]=self["webpackChunkfrontend"]||[]).push([[487],{7696:function(e,n,l){l.r(n),l.d(n,{default:function(){return a}});var t=function(){var e=this,n=e.$createElement,l=e._self._c||n;return l("hello-world")},r=[],u=l(3077),o={name:"HomeView",components:{HelloWorld:u["default"]}},f=o,c=l(1001),s=(0,c.Z)(f,t,r,!1,null,null,null),a=s.exports}}]);
+//# sourceMappingURL=views-HomeView.92986568.js.map
